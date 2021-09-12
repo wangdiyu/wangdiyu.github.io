@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://wangdiyu.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Sep 2021 02:46:04 +0800</lastBuildDate><atom:link href="https://wangdiyu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://wangdiyu.github.io/post/blog/</link>
+      <pubDate>Mon, 13 Sep 2021 02:46:04 +0800</pubDate>
+      
+      <guid>https://wangdiyu.github.io/post/blog/</guid>
+      <description>在 Mac OS X 上安装 Git 如果你正在使用 Mac 做开发，有两种安装 Git 的方法。
+一是安装 homebrew，然后通过 homebrew 安装 Git，具体方法请参考 homebrew 的文档：http://brew.sh/。
+第二种方法更简单，也是推荐的方法，就是直接从 AppStore 安装 Xcode，Xcode 集成了 Git，不过默认没有安装，你需要运行 Xcode，选择菜单 “Xcode”-&amp;gt;“Preferences”，在弹出窗口中找到 “Downloads”，选择 “Command Line Tools”，点 “Install” 就可以完成安装了。
+Xcode 是 Apple 官方 IDE，功能非常强大，是开发 Mac 和 iOS App 的必选装备，而且是免费的！</description>
+    </item>
+    
+  </channel>
+</rss>
